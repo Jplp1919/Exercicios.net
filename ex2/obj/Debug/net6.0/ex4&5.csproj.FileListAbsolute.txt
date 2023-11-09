@@ -1,0 +1,14 @@
+C:\Users\criatec\source\repos\exercicios\ex2\bin\Debug\net6.0\ex4&5.exe
+C:\Users\criatec\source\repos\exercicios\ex2\bin\Debug\net6.0\ex4&5.deps.json
+C:\Users\criatec\source\repos\exercicios\ex2\bin\Debug\net6.0\ex4&5.runtimeconfig.json
+C:\Users\criatec\source\repos\exercicios\ex2\bin\Debug\net6.0\ex4&5.dll
+C:\Users\criatec\source\repos\exercicios\ex2\bin\Debug\net6.0\ex4&5.pdb
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.AssemblyInfoInputs.cache
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.AssemblyInfo.cs
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.csproj.CoreCompileInputs.cache
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.dll
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\refint\ex4&5.dll
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.pdb
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ex4&5.genruntimeconfig.cache
+C:\Users\criatec\source\repos\exercicios\ex2\obj\Debug\net6.0\ref\ex4&5.dll
